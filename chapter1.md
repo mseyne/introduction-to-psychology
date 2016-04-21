@@ -8,4 +8,4 @@
 * In this field, a professional practitioner or researcher is called a **psychologist** and can be classified as a social, behavioral, or cognitive scientist.
 * 
 
-sources : https://en.wikipedia.org/wiki/Psychology
+source : https://en.wikipedia.org/wiki/Psychology
