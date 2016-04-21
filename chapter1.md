@@ -1,8 +1,8 @@
 # What is psychology ?
 
+Welcome to the world of psychology...
 
 ## Explore
-
 
 * **Psychology** is the study of behavior and mind, embracing all aspects of human experience.
 * Academic discipline and an applied science which seeks to understand individuals and groups by establishing general principles and researching specific cases.
