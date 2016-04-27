@@ -1,8 +1,9 @@
-# What is psychology ?
+# Unit 1 - What is psychology ?
+## Chapter 1 - Defining Psychology
 
+### Exploring notes
 
-## Explore
-
+#### Wikipedia Psychology Article
 
 * **Psychology** is the study of behavior and mind, embracing all aspects of human experience.
 * Academic discipline and an applied science which seeks to understand individuals and groups by establishing general principles and researching specific cases.
@@ -14,3 +15,11 @@
 * Psychology as an *hub science*, linking together the social sciences, natural sciences, medicine, humanities and philosophy. 
 
 source : https://en.wikipedia.org/wiki/Psychology
+
+#### About Psychology Article
+
+### Lectures notes
+
+### Reading notes
+
+### Create : Paper and Video 1

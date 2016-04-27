@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is psychology ?](chapter1.md)
-* [History of psychology](chapter2.md)
-* [Perspectives of psychology](introduction.md)
+* Unit 1 - What is psychology ?
+  * [Chapter 1 - Defining psychology](unit1chapter1.md)
+  * [Chapter 2 - History of psychology](unit1chapter2.md)
+* Unit 2 - Perspectives of psychology
 
