@@ -21,6 +21,21 @@ source : https://en.wikipedia.org/wiki/Psychology
 
 #### About Psychology Article
 
+
+#### Crash Course Psychology 1
+
+
+source : https://www.youtube.com/watch?v=vo4pMVb0R6M
+
+
+
+
+
+
+
+
+
+
 ### Lectures notes
 
 ### Reading notes
