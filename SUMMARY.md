@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Unit 1 - What is psychology ?](unit_1_-_what_is_psychology.md)
-   * [Chapter 1 - Defining psychology](unit1chapter1.md)
-   * [Chapter 2 - History of psychology](unit1chapter2.md)
-* [Unit 2 - Perspectives of psychology](unit_2_-_perspectives_of_psychology.md)
+* [Chapter 1 - Defining psychology](unit1chapter1.md)
+* [Chapter 2 - History of psychology](unit1chapter2.md)
+* Unit 2 - Perspectives of psychology
 
