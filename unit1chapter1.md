@@ -5,8 +5,6 @@ Welcome to the world of psychology...
 
 ### Exploring notes
 
-#### Wikipedia Psychology Article
-
 * The word psychology derives from Greek roots meaning study of the psyche, or soul.
 * **Psychology** is the study of behavior and mind, embracing all aspects of human experience.
 * Academic discipline and an applied science which seeks to understand individuals and groups by establishing general principles and researching specific cases.
@@ -17,15 +15,10 @@ Welcome to the world of psychology...
 * Clinical and counseling psychology
 * Psychology as an *hub science*, linking together the social sciences, natural sciences, medicine, humanities and philosophy. 
 
-source : https://en.wikipedia.org/wiki/Psychology
-
-#### About Psychology Article
-
-
-#### Crash Course Psychology 1
-
-
-source : https://www.youtube.com/watch?v=vo4pMVb0R6M
+**sources** :
+wikipedia : https://en.wikipedia.org/wiki/Psychology
+crash course 1 : https://www.youtube.com/watch?v=vo4pMVb0R6M
+oli module 1 what is psychology : https://oli.cmu.edu/jcourse/webui/guest/join.do?section=psychology
 
 
 
