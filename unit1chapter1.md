@@ -25,6 +25,8 @@ oli module 1 what is psychology : https://oli.cmu.edu/jcourse/webui/guest/join.d
 
 ### Reading notes
 
+**sources** :
+
 ### Create : Paper 1
 
 Psychology word derive from the Greek, study of the soul, today it is commonly referred as an academic discipline whose subject of study is human behavior and the process of the mind.
