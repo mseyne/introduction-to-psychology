@@ -42,6 +42,6 @@ Psychology explore a broad range of concepts such as perception, development, co
 
 For this reason, the study of psychology approach each of these subjects separately as self-contained domain of study and as we will see later lead to specialized sub-field of the discipline. For example, the approach of care, counseling, clinical, psychiatry is an approach while the biological brain functions, the cognition is an other.
 
-And because it is a broad discipline that can't be reduced to one of it's part, it important to consider the different levels of explanation : psychological (mind processes, cognition, emotion, motivation), sociocultural (social and cultural structures, practices and environments) and biophysical (neurotransmitters, genes, hormones)
+And because it is a broad discipline that can't be reduced to one of its part, it is important to consider the different levels of explanation : psychological (mind processes, cognition, emotion, motivation), sociocultural (social and cultural structures, practices and environments) and biophysical (neurotransmitters, genes, hormones)
 
-An other subject of psychology is consciousness and understanding it's nature raise many questions that are still very controversial today.
+An other subject of psychology is consciousness and understanding its nature raise many questions that are still very controversial today.
