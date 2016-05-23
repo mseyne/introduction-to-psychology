@@ -24,6 +24,7 @@ Welcome to the world of psychology...
 * The trilogy of mind have been define by Ernest Hilgard as Cognition (knowledge and beliefs), Emotion (Affect, Moods, Feelings) and Motivation (Drives, Goals, Purposes, Needs, Desires)
 * Psychology is a behavioral science, social science, biological science, physical science.
 * Different levels of explanation of psychology : psychological (mind processes, cognition, emotion, motivation), sociocultural (social and cultural structures, practices and environments) and biophysical (neurotransmitters, genes, hormones)
+* We can divide psychology in five big groups : neurosciences, which study the process of the brain, developmental psychology, which study how we grow and learn, cognitive psychology, which try to understand the human behavior from the computer science theory, social psychology, which study group behavior and interpersonal relations, clinical psychology, which study mental disorders and health.
 
 **sources** :
 berkeley lecture 1 : https://www.youtube.com/watch?v=4MvOwqNB_CQ
